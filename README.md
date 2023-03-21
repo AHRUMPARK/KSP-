@@ -53,6 +53,12 @@
 <h3>✒ 구현 기능</h3>
 <hr />
 
+**`디자인 및 기획`**
+
+프로젝트 전반적 계획 설계
+
+로그인, 회원 가입, 회원 정보 페이지, 마이페이지 등 Figma 디자인
+<br />
 
 **LOGIN 페이지**
 
@@ -96,13 +102,7 @@ Bootstap 라이브러리 ⇒ 마이페이지 제외 사용 ( 마이페이지 css
 
 <br />
 
-**`디자인 및 기획`**
 
-
-프로젝트 전반적 계획 설계
-
-로그인, 회원 가입, 회원 정보 페이지, 마이페이지 등 Figma 디자인
-<br />
 
 <img src="https://user-images.githubusercontent.com/116782319/226579163-7ab74f3c-69f2-4e3e-be06-ffe31c98b2dd.png"  width="1000" align="center" />
 
