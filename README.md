@@ -55,29 +55,6 @@
 
 **기능**
 
-
-`REST API 사용` 
-
-- 로그인 & 로그아웃 ⇒ 세션 생성
-- 회원 가입 / 회원 탈퇴 / 회원 정보 수정 / 유저 게시글 연결 /  좋아요 관리 기능
-
-Node.js multter  ⇒  이미지 업로드 기능
-
-Bootstap 라이브러리 ⇒ 마이페이지 제외 사용 ( 마이페이지 css grid )
-
-**Cherrio** **Crawling** ⇒  음원 사이트 데이터 추출
-
-<br />
-
-**`디자인 및 기획`**
-
-
-프로젝트 전반적 계획 설계
-
-로그인, 회원 가입, 회원 정보 페이지, 마이페이지 등 Figma 디자인
-<br />
-
-<img src="https://user-images.githubusercontent.com/116782319/226579163-7ab74f3c-69f2-4e3e-be06-ffe31c98b2dd.png"  width="1000" align="center" />
 **LOGIN 페이지**
 
 **`REST API 사용`** ⇒ User DB 관련 작업
@@ -109,6 +86,23 @@ Session 이 있으면 접속 가능
 **`Node.js multter`** ⇒ 이미지 업로드 미들웨어 사용
 
 서버에서 좋아요 & 게시글 갯수 제한
+
+Bootstap 라이브러리 ⇒ 마이페이지 제외 사용 ( 마이페이지 css grid )
+
+
+<br />
+
+**`디자인 및 기획`**
+
+
+프로젝트 전반적 계획 설계
+
+로그인, 회원 가입, 회원 정보 페이지, 마이페이지 등 Figma 디자인
+<br />
+
+<img src="https://user-images.githubusercontent.com/116782319/226579163-7ab74f3c-69f2-4e3e-be06-ffe31c98b2dd.png"  width="1000" align="center" />
+
+
 
 
    <br/>
