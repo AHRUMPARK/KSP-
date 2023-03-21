@@ -1,5 +1,9 @@
-# 1st_Project
-KSP 음원 사이트 랭킹 모아보기
+# KSP 음원 사이트 랭킹 모아보기
+
+**`Frontend`** 1명
+
+**`FULL`** 3명
+
 <img src="https://user-images.githubusercontent.com/116782319/226579163-7ab74f3c-69f2-4e3e-be06-ffe31c98b2dd.png"  width="1000" align="center" />
 <h4>🔗demo http://49.50.172.207:8080/</h4>
    
