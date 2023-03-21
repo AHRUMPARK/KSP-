@@ -78,7 +78,37 @@ Bootstap 라이브러리 ⇒ 마이페이지 제외 사용 ( 마이페이지 css
 <br />
 
 <img src="https://user-images.githubusercontent.com/116782319/226579163-7ab74f3c-69f2-4e3e-be06-ffe31c98b2dd.png"  width="1000" align="center" />
+**LOGIN 페이지**
 
+**`REST API 사용`** ⇒ User DB 관련 작업
+
+**`Session 생성`**  ⇒ 성공시 메인페이지 이동
+
+- Session 이 없으면, 사이트 기능 이용 불가 ⇒ 로그인 페이지 이동
+- Session 값에 따라 UI 가 다름
+
+
+ **회원가입 페이지**
+
+**`Form validation`  ⇒ 클라이언트 유효성 검사 (실시간 동적 폼 기능)**
+
+**`Sequilze`  ⇒ 서버에서 중복 값 체크**
+
+성공하면 메인 페이지로 이동
+
+**회원 정보 수정** 
+
+닉네임, 비밀번호 수정 가능
+
+회원 탈퇴 기능 ⇒ Session Destroy & user DB 데이터 삭제
+
+**마이 페이지**
+
+Session 이 있으면 접속 가능
+
+**`Node.js multter`** ⇒ 이미지 업로드 미들웨어 사용
+
+서버에서 좋아요 & 게시글 갯수 제한
 
 
    <br/>
