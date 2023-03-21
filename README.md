@@ -4,7 +4,7 @@
 
 **`진행기간`**  2022.12.15 ~ 2022.12.29 총 2 주간 진행
 
-<img src="https://user-images.githubusercontent.com/116782319/226580731-2e7847b6-29ae-4e4b-9ac7-a92706ab38b0.jpg"  width="800" align="center" />
+<img src="https://user-images.githubusercontent.com/116782319/226580731-2e7847b6-29ae-4e4b-9ac7-a92706ab38b0.jpg"  width="1000" align="center" />
 
 <h4>🔗demo http://49.50.172.207:8080/</h4>
    
@@ -58,6 +58,7 @@
 프로젝트 전반적 계획 설계
 
 로그인, 회원 가입, 회원 정보 페이지, 마이페이지 등 Figma 디자인
+<br />
 <br />
 
 **LOGIN 페이지**
