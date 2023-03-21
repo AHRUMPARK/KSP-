@@ -102,7 +102,8 @@ req.session.id는 쓰면 안된다.
 
 💕 팀원들과 매일 일지 기록 했던 것이 좋았다.
 
-[https://tricolor-fern-8f6.notion.site/f9d78bfeadeb433885927ad6d02b7895?v=a34d8ca69a7f4b45a415299ea33aa1b8&p=269c07d990024247b016a6d49bf7428a&pm=s]회원가입 & 로그인 & 회원 정보 수정
+[https://tricolor-fern-8f6.notion.site/f9d78bfeadeb433885927ad6d02b7895?v=a34d8ca69a7f4b45a415299ea33aa1b8&p=269c07d990024247b016a6d49bf7428a&pm=s]
+API 명세서 : https://tricolor-fern-8f6.notion.site/API-269c07d990024247b016a6d49bf7428a
 
 
  
