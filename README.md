@@ -1,17 +1,16 @@
 # KSP 음원 사이트 랭킹 모아보기
 
-**`Frontend`** 1명
+**`Frontend`** 1명  **`FULL`** 3명
 
-**`FULL`** 3명
+**`진행기간`**  2022.12.15 ~ 2022.12.29 총 2 주간 진행
 
-<img src="https://user-images.githubusercontent.com/116782319/226579163-7ab74f3c-69f2-4e3e-be06-ffe31c98b2dd.png"  width="1000" align="center" />
+<img src="https://user-images.githubusercontent.com/116782319/226580731-2e7847b6-29ae-4e4b-9ac7-a92706ab38b0.jpg"  width="1000" align="center" />
+
 <h4>🔗demo http://49.50.172.207:8080/</h4>
    
    <br/>
 <h3>🎵 서비스 소개</h3>
 <hr />
-<h4>" 당신의 반려동물을 위한 다리 반다리입니다." </h4>
-
 
 <aside>
    
@@ -69,7 +68,7 @@
 화면과 어울리는 컬러감의 그라데이션  & 포인트 음표 이미지를 오버레이 시켰습니다.
 
 
-
+<img src="https://user-images.githubusercontent.com/116782319/226579163-7ab74f3c-69f2-4e3e-be06-ffe31c98b2dd.png"  width="1000" align="center" />
 
 
 
